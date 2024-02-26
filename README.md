@@ -1,5 +1,3 @@
-# Recommendation-System
-
 # Recommender System in PyTorch
 
 Implementations of various top-N recommender systems in [PyTorch](pytorch.org) for practice.
